@@ -1,0 +1,9 @@
+model-viewer::part(ar-button) {
+  position: absolute;
+  top: 20px; 
+  right: 20px;  
+  background-color: #ff6600; 
+  padding: 10px 15px;
+  border-radius: 8px;
+  font-size: 16px;
+}
