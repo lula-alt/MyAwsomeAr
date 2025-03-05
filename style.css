@@ -1,0 +1,39 @@
+
+#brand{
+  max-width: 30vw;
+  max-height: 30vw;
+  margin-top: 50px;
+}
+
+#menu{
+  margin-top: 45px;
+  padding-left: 10px;
+  max-width: 90%;
+  max-height: 96%;
+  margin-left: 10px;
+  padding-bottom: 100px;
+  display: inline-block;
+  position: relative;
+}
+
+@media (max-width: 400px){
+  #brand{
+    margin-left: 36%;
+  }
+}
+
+@media (min-width: 401px){
+  #brand{
+    margin-left: 36%;
+  }
+}
+
+
+
+#ar{
+  right: 6.5vw;
+  top: 49vw;
+  position: absolute;
+  max-width: 10vw;
+  max-height: 10vw;
+}

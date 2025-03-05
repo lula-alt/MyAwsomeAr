@@ -1,0 +1,10 @@
+ /*<script>
+    function isMobileDevice() {
+      return /Mobi|Android|iPhone|iPad|iPod|Windows Phone/i.test(navigator.userAgent);
+    }
+  
+    if (!isMobileDevice()) {
+      window.location.href = "blocked.html"; // Redirect desktops to another page
+    }
+  </script>
+  
